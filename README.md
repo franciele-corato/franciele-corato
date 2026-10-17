@@ -1,16 +1,26 @@
-## Hi there 👋
+Olá! Eu sou a Franciele Corato 👋
 
-<!--
-**franciele-corato/franciele-corato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na PUCPR.
 
-Here are some ideas to get you started:
+💻 Estou iniciando minha jornada na programação e desenvolvendo meus conhecimentos em lógica de programação e Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Atualmente estou aprendendo
+
+- Python e fundamentos da programação.
+- Lógica de programação e resolução de problemas.
+- Git e GitHub para versionamento e organização dos estudos.
+
+🎯 Objetivos
+
+- Conquistar minha primeira oportunidade de estágio em tecnologia.
+- Desenvolver meus primeiros projetos e compartilhar minha evolução.
+- Aprender novas linguagens e tecnologias.
+- Colaborar com equipes e aprender com profissionais experientes.
+
+✨ Um pouco sobre mim
+
+Estou em transição de carreira da área comercial e de atendimento ao cliente para a tecnologia. Trago comigo habilidades de comunicação, organização, responsabilidade e trabalho em equipe, além de muita vontade de aprender e evoluir.
+
+📚 Este perfil é meu espaço para registrar meus estudos, compartilhar exercícios e acompanhar minha evolução como futura desenvolvedora.
+
+Em constante aprendizado — always learning! 🚀## Hi there 👋
