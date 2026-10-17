@@ -24,3 +24,10 @@ Estou em transição de carreira da área comercial e de atendimento ao cliente 
 📚 Este perfil é meu espaço para registrar meus estudos, compartilhar exercícios e acompanhar minha evolução como futura desenvolvedora.
 
 Em constante aprendizado — always learning! 🚀
+
+## 🛠️ Tecnologias e ferramentas
+
+- **Python:** estudando fundamentos e lógica de programação.
+- **Git e GitHub:** aprendendo versionamento e organização de projetos.
+- **SQL:** próximo objetivo de aprendizado.
+  
