@@ -1,4 +1,4 @@
-**franciele-corato/franciele-corato** is a ✨ _special_ ✨ repository because its `README# Olá! Eu sou a Franciele Corato 👋
+# Olá! Eu sou a Franciele Corato 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na PUCPR.
 
